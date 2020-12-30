@@ -89,7 +89,7 @@ const LandingPage = () => {
             <Card style={{ width: "18rem" }}>
               <Card.Img
                 variant="top"
-                src="https://lh3.googleusercontent.com/proxy/ho5Tm_sFzlaoRDge-LRNuhAR2cEagS_A28UFzS82gvgKsjzj6jHHpCVwrqa8L5HmPmvZewW9x6PLYoSOctik9-6Gi4iQclCNDNcRSw4mMAf6rm8BHEybXtL1Ug"
+                src="https://c.static-nike.com/a/images/t_prod_ss/w_640,c_limit,q_auto,f_auto/a2xc2snk9pr1tnwl8j53/womens-air-jordan-i-twist-release-date.jpg"
               />
               <Card.Body>
                 <Card.Title>Nike Air Jordan 4</Card.Title>
